@@ -255,6 +255,7 @@
     "typescript": "^5.3.0"
   },
   "dependencies": {
-    "@weaveai/shared": "latest"
+    "@weaveai/core": "^1.2.2",
+    "@weaveai/shared": "^1.2.0"
   }
 }
